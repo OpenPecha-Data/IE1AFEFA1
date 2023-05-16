@@ -1,0 +1,18 @@
+id: IE1AFEFA1
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:53.572935
+last_modified: 2023-01-04 11:27:53.572944
+source_metadata:
+  collections:
+  - Alak Zenkar Pema Ngödrup Rolwe Dorje
+  - Works of Tibetan Masters
+bases:
+  A06E:
+    title: A Prayer to Tārā
+    base_file: A06E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
